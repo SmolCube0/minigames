@@ -1,1 +1,29 @@
+Reaction Time Game
+Created by SmolCube_ on 6/29/2025
+Current version: v1.2.1
 
+Changelog
+Version 1.2.1
+    6/29/2025
+    -fixed a bug where the highest score was the slowest time
+    -fixed a bug where on the second time the user enters 'menu' the settings menu doesn't show up
+Version 1.2.0
+    6/29/2025
+    -added support for different keybinds. Can change in the settings menu by typing 'menu'
+    -went bug catching
+Version 1.1.1
+    6/29/2025
+    -fixed a problem where the program force closed before giving the user time to answer the input on lines 69-71
+Version 1.1.0
+    6/29/2025
+    -added average times
+Version 1.0.2
+    6/29/2025
+    -fixed a problem where the key press wasn't always being recorded
+Version 1.0.1
+    6/29/2025
+    -made the code more efficient
+    -went bug catching
+Version 1.0.0
+    6/29/2025
+    -released the game :o

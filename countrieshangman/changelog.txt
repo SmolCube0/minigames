@@ -1,4 +1,17 @@
 Countries Hangman
-SmolCube_
-Created 6/30/2025
+Created by SmolCube_
+6/30/2025
 
+
+Version 1.2.0
+    6/30/2025
+    -added support for lowercase letters
+Version 1.1.0
+    6/30/2025
+    -added multi-round support
+Version 1.0.1
+    6/30/2025
+    -fixed a bug where in multiple-word names, a forward slash (/) was appended at the end.
+Version 1.0.0
+    6/30/2025
+    -released the game
