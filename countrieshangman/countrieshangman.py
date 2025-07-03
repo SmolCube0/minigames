@@ -65,6 +65,7 @@ def hangmanGame():
     print(display)
     t.sleep(1)
     guess = input("")
+    guess = input(" ")
     while True:
         if guess == "":
             guess = input("Start guessing. Guess one capital letter or the whole name.")
