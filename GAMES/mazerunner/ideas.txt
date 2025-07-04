@@ -1,0 +1,5 @@
+make a grid with x side and x^2 dots
+say 1 is the start and x^2 is the exit
+start and exit are on opposite corners
+randomly generates maze and you can solve using step by step ui
+wanna make a tkinter map with fog of war style unlocking
