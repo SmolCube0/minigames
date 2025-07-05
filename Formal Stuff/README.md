@@ -1,2 +1,0 @@
-# minigames
-For my minigames :)
