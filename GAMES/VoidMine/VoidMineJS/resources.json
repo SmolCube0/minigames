@@ -1,0 +1,23 @@
+[
+    {
+        "id":"0",
+        "name":"Wood",
+        "rarity":"Common",
+        "resourceType1":"",
+        "resourceType2":null,
+        "tools":[""],
+        "durabilityNeeded":0,
+        "depthMin":0,
+        "depthMax":null,
+        "spawnChance":"",
+        "miningSpeed":0,
+        "weightMin":0,
+        "weightAvg":0,
+        "hugeChance":0,
+        "multispawnChance":0,
+        "xpGiven":0,
+        "moneyRaw":0,
+        "moneyProcess":0
+    }
+
+]
