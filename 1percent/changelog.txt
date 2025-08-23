@@ -1,0 +1,24 @@
+Countries Hangman
+Created by SmolCube_
+8/22/2025
+
+
+Version 1.2.0
+    8/23/2025
+    added a shop for powerups other stuff
+
+Version 1.1.2
+    8/23/2025
+    -balanced percent increases
+
+Version 1.1.1
+    8/22/2025
+    -added percent increases
+
+Version 1.1.0
+    8/22/2025
+    -added achievements
+
+Version 1.0.0
+    8/22/2025
+    -game release
